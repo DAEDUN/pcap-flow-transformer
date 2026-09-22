@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+*.pth
+*.pt
+*.pcap
+*.pcapng
+train.csv
+testcase.csv
+prediction.csv
